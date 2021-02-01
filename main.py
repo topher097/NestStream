@@ -2,6 +2,9 @@
 # client secret: S2zZNAJ8sNEDTGB6xG_g5MJo
 # API key: AIzaSyDDrfn2VmS9wkZ7lrmbRBm3uuXttOjIXPY
 
+# https://console.nest.google.com/device-access/project/6382d564-7bc9-41d8-aed6-b855a82e7dd6/information
+
+https://smartdevicemanagement.googleapis.com/v1/enterprises/nest-cam-streaming/devices
 
 import nest
 import sys
